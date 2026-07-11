@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+heritage_demo.db
+.env
